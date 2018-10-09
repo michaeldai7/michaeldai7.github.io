@@ -6,3 +6,5 @@ I have some goals:
 * write blog everyday
 20181008 23:58
 ***
+I want to learn at any places any where no matter how bad is the enviorment...
+###
