@@ -5,6 +5,7 @@ I have some goals:
 * excercise everyday
 * write blog everyday
 20181008 23:58
-***
-I want to learn at any places any where no matter how bad is the enviorment...
 ###
+~~~
+>I want to learn at any places any where no matter how bad is the enviorment... 20181009 00:49
+
